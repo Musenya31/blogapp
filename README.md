@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Blog App
 
 A modern, full-stack blog application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). The app features a sleek, responsive UI, user authentication, image uploads, comments, categories, and more.
@@ -121,3 +122,6 @@ Example:
 
 ## 📝 License
 MIT 
+=======
+# blogapp
+>>>>>>> a34118d8ffb5db767eea77e1d9698aaaeb3579d5
